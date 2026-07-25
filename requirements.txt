@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mediapipe
+pillow
+jupyter
+ipython
